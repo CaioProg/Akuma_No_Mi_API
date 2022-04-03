@@ -1,9 +1,19 @@
+using AkumaNoMi.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+string FrutaConnection = builder.Configuration.GetConnectionString("FrutaConnection");
+
+builder.Services.AddDbContextPool<FrutaContext>(options =>
+                options.UseMySql(FrutaConnection,
+                      ServerVersion.AutoDetect(FrutaConnection)));
+
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

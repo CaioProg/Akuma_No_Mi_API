@@ -25,3 +25,13 @@ C:\Workspace\AkumaNoMi\AkumaNoMi\obj\Debug\net6.0\refint\AkumaNoMi.dll
 C:\Workspace\AkumaNoMi\AkumaNoMi\obj\Debug\net6.0\AkumaNoMi.pdb
 C:\Workspace\AkumaNoMi\AkumaNoMi\obj\Debug\net6.0\AkumaNoMi.genruntimeconfig.cache
 C:\Workspace\AkumaNoMi\AkumaNoMi\obj\Debug\net6.0\ref\AkumaNoMi.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Humanizer.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\AutoMapper.dll
+C:\Workspace\AkumaNoMi\AkumaNoMi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZZdFYwOHzohcO6gyQe5nEgmAl2mvQIb/nPoW3Bq4BOCQtsxSI4a6y16e2pjDCObFuiK+WTRoyntZxGTyIUn3w==",
+  "dgSpecHash": "kkhGzasqr9FLrv85n66IACg5qjCt6h26qF0qkBJCpXQyn6C3tv4bbmNPpj0fHFtpG8EbGBwuLQdbV7fq9vJ7Qg==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\AkumaNoMi\\AkumaNoMi\\AkumaNoMi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\CaioLucas\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\CaioLucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\CaioLucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\CaioLucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\CaioLucas\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\CaioLucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\CaioLucas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",

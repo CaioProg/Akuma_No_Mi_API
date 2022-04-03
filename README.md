@@ -37,11 +37,13 @@ Dentro da pasta instalada você tera um arquivo chamado 'AkumaNoMi.sln', este é
 Após a abertura do Visual Studio vamos iniciar a aplicação clicando em 'AkumaNoMi' como mostrado na imagem abaixo.
 
 <br>
+
 <a href="#">
 <img src="https://i.imgur.com/s9ZKyxE.png" width="1000px;" alt="Imagem do botão de iniciar"/><br>
 </a>
 
 <br>
+
 No console que se abriu, vamos copiar a segunda URL para colocarmos no Postman.
 
 <br>
@@ -49,6 +51,7 @@ No console que se abriu, vamos copiar a segunda URL para colocarmos no Postman.
 <a href="#">
 <img src="https://i.imgur.com/OB5yYkv.png" width="1000px;" alt="Imagem do botão de iniciar"/><br>
 </a>
+
 <br>
 
 Dentro do Postaman vamos colar a Url e acrescentar um '/Fruta' ao final dela.
@@ -106,6 +109,7 @@ Para filtrar qual fruta trazer, utilizamos o metodo GET e colocamos um /'id' no 
 </a> 
 
 <br>
+
 Agora vamos utilizar o metodo PUT para editar uma Akuma no Mi cadastrada, para isso vamos utlizar a URL junto com o /'id', vamos colocar no Body o que queremos alterar.
 
 <br>

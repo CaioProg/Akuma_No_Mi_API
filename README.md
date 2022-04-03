@@ -34,6 +34,7 @@ Dentro da pasta instalada você tera um arquivo chamado 'AkumaNoMi.sln', este é
 </a>
 
 <br>
+
 Após a abertura do Visual Studio vamos iniciar a aplicação clicando em 'AkumaNoMi' como mostrado na imagem abaixo.
 
 <br>
